@@ -22,7 +22,7 @@ Bait
 
 | 1 | 2 | 3 |
 | : --- | : --- : | --- : |
-![DOTA](https://avatars.mds.yandex.net/i?id=cb8aa6d966d2aa4fd00aa0b8d1ddc4a5_l-10518571-images-thumbs&n=13)-->
+![DOTA](https://avatars.mds.yandex.net/i?id=cb8aa6d966d2aa4fd00aa0b8d1ddc4a5_l-10518571-images-thumbs&n=13) -->
 # Лабораторные работы по Информатике
 
 
